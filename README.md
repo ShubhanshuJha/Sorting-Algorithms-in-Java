@@ -13,8 +13,9 @@ Each sorting algorithm is implemented as a separate method in the Sorting class.
 
 To use the code in this repository, simply copy the Sorting.java file into your Java project and import the Sorting class. Then, you can call any of the sorting algorithms by following these steps:
 1. <b>Instantiate the Sorting class:</b>
-
-```Sorting s = new Sorting();```
+```
+Sorting s = new Sorting();
+```
 
 2. Define an integer array `arr` of size `n` with the values you want to sort.
 
